@@ -5,8 +5,8 @@
 BuildCores Parts List: [Link](https://uk.buildcores.com/setup/atsrr4TpS?share=true&view=setup)
 
  
-|**Component**|**Title**|**Price**|
-|:-|:-|:-|
+|**Component**|**Title**|**Price**|**Justification**|
+|:-|:-|:-|:-|
 |Case|[Phanteks XT PRO ATX Mid Tower Black Tempered Glass Side Panel](https://uk.buildcores.com/products/PCCase/dj5bop744/Phanteks-XT-PRO-ATX-Mid-Tower-Black-Tempered-Glass-Side-Panel)|[£49.00 (Computer Orbit)](https://computerorbit.com/products/phanteks-xt-pro-black-tempered-glass-atx-pc-case?ref=buildcores)|
 |CPU|[Intel Core i5 6400](https://uk.buildcores.com/products/CPU/mk29y87hn/Intel-Core-i5-6400)|[£71.66 (Amazon)](https://www.amazon.co.uk/dp/B010T6CG7E?tag=buildcoresx-21&linkCode=ogi&th=1&psc=1)|
 |Motherboard|[Asus ROG MAXIMUS X HERO (WI-FI AC) Z370 DDR4 ATX](https://uk.buildcores.com/products/Motherboard/dibg36bus/Asus-ROG-MAXIMUS-X-HERO-(WI-FI-AC)-Z370-DDR4-ATX)|[£43.99 (BackToTheOffice)](https://www.awin1.com/cread.php?awinmid=61655&awinaffid=743627&campaign=BuildCores.com&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Fd-link-2-port-gigabit-poe-extender%3Fvariant%3D56014907703678)|
