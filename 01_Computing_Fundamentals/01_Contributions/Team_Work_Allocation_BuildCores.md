@@ -34,7 +34,7 @@ R = Responsible · A = Accountable · C = Consulted · I = Informed
 | Administrative Assistant build (BuildCores + peripherals) |R| | | |
 | Project Manager build (BuildCores + peripherals) | |R| | |
 | Architect / CAD Designer build (BuildCores + peripherals) | | |R| |
-| 3D Visualisation Specialist build (BuildCores + peripherals) | | | |R|
+| 3D Visualisation Specialist build (BuildCores + peripherals) | | | |R A I|
 | Component justifications (role suitability & value) | | | | |
 | Pricing evidence (screenshots, links, date checked) | | | | |
 | Combined budget & comparison table | | | | |
