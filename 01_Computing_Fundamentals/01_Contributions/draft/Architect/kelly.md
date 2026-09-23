@@ -8,7 +8,7 @@
 BuildCores Parts List: [Link](https://uk.buildcores.com/builds/mZryhd0pG?share=true)
 
  
-|**Component**|**Title**|**Price**|
+|**Component**|**Title**|**Price**|**Justification**|
 |:-|:-|:-|:-|
 |Case|[darkFlash DY470 ATX Mid Tower White with Tempered Glass Side Panel (4 PWM ARGB Fans)](https://uk.buildcores.com/products/PCCase/iw5g6yv4e/darkFlash-DY470-ATX-Mid-Tower-White-with-Tempered-Glass-Side-Panel-(4-PWM-ARGB-Fans))|[£184.87 (Amazon)](https://www.amazon.co.uk/dp/B0DHWTLNPJ?tag=buildcoresx-21&linkCode=ogi&th=1&psc=1)|
 |CPU|[AMD Ryzen 9 7900X](https://uk.buildcores.com/products/CPU/i1ethwo6x/AMD-Ryzen-9-7900X)|[£255.00 (Amazon)](https://www.amazon.co.uk/dp/B0BBJ59WJ4?tag=buildcoresx-21&linkCode=ogi&th=1&psc=1)|
