@@ -1,1 +1,14 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Ordered List with Numbers</h2>
+
+<ol type="1">
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ol>  
 !<img width="2400" height="1260" alt="image" src="https://uk.buildcores.com/builds/fKpjEg-Bx?share=true" />
+</body>
+</html>
