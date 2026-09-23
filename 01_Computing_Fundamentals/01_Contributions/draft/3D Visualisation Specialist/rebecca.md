@@ -5,7 +5,7 @@
 BuildCores Parts List: [Link](https://uk.buildcores.com/builds/oqTEw_EBN?share=true)
 
  
-|**Component**|**Title**|**Price**|
+|**Component**|**Title**|**Price**|**Justification**|
 |:-|:-|:-|
 |Case|[HYTE Y70 ATX Mid Tower Pitch Black with Tempered Glass Side Panel and USB 3.2 Gen 2 Type-C, USB 3.2 Gen 1 Type-A](https://uk.buildcores.com/products/PCCase/uyxyk9c2k/HYTE-Y70-ATX-Mid-Tower-Pitch-Black-with-Tempered-Glass-Side-Panel-and-USB-3.2-Gen-2-Type-C%2C-USB-3.2-Gen-1-Type-A)|[£179.00 (Computer Orbit)](https://computerorbit.com/products/hyte-y70-black-dual-chamber-atx-pc-case?ref=buildcores)|
 |CPU|[Intel Core Ultra 7 270K Plus](https://uk.buildcores.com/products/CPU/3a2imgkkz/Intel-Core-Ultra-7-270K-Plus)|[£300.97 (Amazon)](https://www.amazon.co.uk/dp/B0GMLJCBBM?tag=buildcoresx-21&linkCode=ogi&th=1&psc=1)|
