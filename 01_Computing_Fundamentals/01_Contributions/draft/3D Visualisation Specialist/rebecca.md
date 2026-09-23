@@ -6,7 +6,7 @@ BuildCores Parts List: [Link](https://uk.buildcores.com/builds/oqTEw_EBN?share=t
 
  
 |**Component**|**Title**|**Price**|**Justification**|
-|:-|:-|:-|
+|:-|:-|:-|:-|
 |Case|[HYTE Y70 ATX Mid Tower Pitch Black with Tempered Glass Side Panel and USB 3.2 Gen 2 Type-C, USB 3.2 Gen 1 Type-A](https://uk.buildcores.com/products/PCCase/uyxyk9c2k/HYTE-Y70-ATX-Mid-Tower-Pitch-Black-with-Tempered-Glass-Side-Panel-and-USB-3.2-Gen-2-Type-C%2C-USB-3.2-Gen-1-Type-A)|[£179.00 (Computer Orbit)](https://computerorbit.com/products/hyte-y70-black-dual-chamber-atx-pc-case?ref=buildcores)|
 |CPU|[Intel Core Ultra 7 270K Plus](https://uk.buildcores.com/products/CPU/3a2imgkkz/Intel-Core-Ultra-7-270K-Plus)|[£300.97 (Amazon)](https://www.amazon.co.uk/dp/B0GMLJCBBM?tag=buildcoresx-21&linkCode=ogi&th=1&psc=1)|
 |Motherboard|[Asus Z890 ROG MAXIMUS HERO LGA1851 DDR5 ATX](https://uk.buildcores.com/products/Motherboard/b4f8f1wwk/Asus-Z890-ROG-MAXIMUS-HERO-LGA1851-DDR5-ATX)|[£349.99 (Box.co)](https://www.awin1.com/cread.php?awinmid=100685&awinaffid=743627&campaign=BuildCores&ued=https%3A%2F%2Fbox.co.uk%2F90mb1id0-m0eay0-asus-rog-maximus-z890-hero-lga-1851)|
