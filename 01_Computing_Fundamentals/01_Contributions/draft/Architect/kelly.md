@@ -18,6 +18,8 @@ BuildCores Parts List: [Link](https://uk.buildcores.com/builds/mZryhd0pG?share=t
 |Storage|[PNY CS2230 1TB SSD M.2-2280 PCIe 3.0 X4 NVMe](https://uk.buildcores.com/products/Storage/bxnrd7jit/PNY-CS2230-1TB-SSD-M.2-2280-PCIe-3.0-X4-NVMe)|[£158.80 (Amazon)](https://www.amazon.co.uk/dp/B0BS1WWDQB?tag=buildcoresx-21&linkCode=ogi&th=1&psc=1)|
 |Power Supply|[MSI MAG A850GL PCIE5 White 850W Fully Modular 80+ Gold ATX](https://uk.buildcores.com/products/PSU/h048qz789/MSI-MAG-A850GL-PCIE5-White-850W-Fully-Modular-80%2B-Gold-ATX)|[£126.13 (Amazon)](https://www.amazon.co.uk/dp/B0CT41HW5J?tag=buildcoresx-21&linkCode=ogi&th=1&psc=1)|
 |Case Fan|[darkFlash INF34 ARGB PWM 120mm White 3-Pack](https://uk.buildcores.com/products/CaseFan/brst9jnjb/darkFlash-INF34-ARGB-PWM-120mm-White-3-Pack)|[£29.99 (Amazon)](https://www.amazon.co.uk/dp/B0DKST5LX5?tag=buildcoresx-21&linkCode=ogi&th=1&psc=1)|
+|Mouse|[HyperX Pulsefire Haste 2 Core Black](https://uk.buildcores.com/products/Mouse/vl6pxb4qx/HyperX-Pulsefire-Haste-2-Core-Black)|[£27.99 (Box.co)](https://www.awin1.com/cread.php?awinmid=100685&awinaffid=743627&campaign=BuildCores&ued=https%3A%2F%2Fbox.co.uk%2F8r2e6aa-hyperx-pulsefire-haste-2core-gaming-mouse)|
+|Keyboard|[Royal Kludge RK61 White - Brown Switch](https://uk.buildcores.com/products/Keyboard/jp705h50m/Royal-Kludge-RK61-White-Brown-Switch)|[N/A (Amazon)](https://www.amazon.co.uk/dp/B085ZS1TDQ?tag=buildcoresx-21&linkCode=ogi&th=1&psc=1)|
 | | | |
-|**Total Price**|**$2484.76**| |
+|**Total Price**|**$2512.75**| |
 |[BuildCores Web](https://uk.buildcores.com)|[BuildCores iOS](https://apps.apple.com/us/app/buildcores-part-picker-for-pc/id1441971434)|[BuildCores Android](https://play.google.com/store/apps/details?id=com.buildcores.buildcores&pcampaignid=web_share)|
