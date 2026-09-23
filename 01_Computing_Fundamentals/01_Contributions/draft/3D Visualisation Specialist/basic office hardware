@@ -2,13 +2,16 @@
 <html>
 <body>
 
-<h2>Ordered List with Numbers</h2>
+<h2>A Description List</h2>
 
-<ol type="1">
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
-</ol>  
-!<img width="2400" height="1260" alt="image" src="https://uk.buildcores.com/builds/fKpjEg-Bx?share=true" />
+<dl>
+  <dt>Coffee</dt>
+  <dd>- black hot drink</dd>
+  <dt>Milk</dt>
+  <dd>- white cold drink</dd>
+</dl>
+
 </body>
 </html>
+!<img width="2400" height="1260" alt="image" src="https://uk.buildcores.com/builds/fKpjEg-Bx?share=true" />
+
