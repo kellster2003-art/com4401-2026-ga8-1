@@ -29,7 +29,7 @@
 
 R = Responsible · A = Accountable · C = Consulted · I = Informed
 
-| Task | Member 1 | Member 2 | Member 3 | Member 4 |
+| Task | Hasan Uzsoy | Member 2 | Member 3 | Member 4 |
 |------|----------|----------|----------|----------|
 | Administrative Assistant build (BuildCores + peripherals) | | | | |
 | Project Manager build (BuildCores + peripherals) | | | | |
