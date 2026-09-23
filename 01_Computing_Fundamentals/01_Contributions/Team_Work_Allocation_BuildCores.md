@@ -29,7 +29,7 @@
 
 R = Responsible · A = Accountable · C = Consulted · I = Informed
 
-| Task | Hasan Uzsoy | Member 2 | Member 3 | Member 4 |
+| Task | Hasan Uzsoy | Hashim Ghaffar | Kelly-Marie Allum | Rebecca Wood |
 |------|----------|----------|----------|----------|
 | Administrative Assistant build (BuildCores + peripherals) | | | | |
 | Project Manager build (BuildCores + peripherals) | | | | |
