@@ -20,5 +20,5 @@ BuildCores Parts List: [Link](https://uk.buildcores.com/setup/atsrr4TpS?share=tr
 |Monitor|[Dell Pro P 24 16:10 USB-C Hub Monitor - P2426E](https://uk.buildcores.com/products/Monitor/99vtzjyno/Dell-Pro-P-24-16%3A10-USB-C-Hub-Monitor-P2426E)|[£189.98 (ScanComputer)](https://www.awin1.com/cread.php?awinmid=15473&awinaffid=743627&ued=https%3A%2F%2Fwww.scan.co.uk%2Fproducts%2F24-dell-pro-p-24-p2426he-monitor-ips-1920-x-1080-120hz-5ms-hdmi-14-dp-14-usb-hub)|
 |Mouse|[Logitech M220 Wireless Mouse with Silent Clicks](https://uk.buildcores.com/products/Mouse/th26ruol1/Logitech-M220-Wireless-Mouse-with-Silent-Clicks)|[£17.49 (Box.co)](https://www.awin1.com/cread.php?awinmid=100685&awinaffid=743627&campaign=BuildCores&ued=https%3A%2F%2Fbox.co.uk%2F910-004878-logitech-m220-wireless-1000-dpi-mouse)|
 | | | |
-|**Total Price**|**£431.28**| |
+|**Total Price**|**£572**| |
 |[BuildCores Web](https://uk.buildcores.com)|[BuildCores iOS](https://apps.apple.com/us/app/buildcores-part-picker-for-pc/id1441971434)|[BuildCores Android](https://play.google.com/store/apps/details?id=com.buildcores.buildcores&pcampaignid=web_share)|
