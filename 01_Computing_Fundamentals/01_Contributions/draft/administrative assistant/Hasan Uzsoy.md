@@ -1,0 +1,24 @@
+!<img width="2400" height="1260" alt="image" src="https://github.com/user-attachments/assets/6172492d-41cb-4809-83c4-ddb05136d085" />
+
+
+
+BuildCores Parts List: [Link](https://uk.buildcores.com/setup/atsrr4TpS?share=true&view=setup)
+
+ 
+|**Component**|**Title**|**Price**|
+|:-|:-|:-|
+|Case|[Phanteks XT PRO ATX Mid Tower Black Tempered Glass Side Panel](https://uk.buildcores.com/products/PCCase/dj5bop744/Phanteks-XT-PRO-ATX-Mid-Tower-Black-Tempered-Glass-Side-Panel)|[£49.00 (Computer Orbit)](https://computerorbit.com/products/phanteks-xt-pro-black-tempered-glass-atx-pc-case?ref=buildcores)|
+|CPU|[Intel Core i5 6400](https://uk.buildcores.com/products/CPU/mk29y87hn/Intel-Core-i5-6400)|[£71.66 (Amazon)](https://www.amazon.co.uk/dp/B010T6CG7E?tag=buildcoresx-21&linkCode=ogi&th=1&psc=1)|
+|Motherboard|[Asus ROG MAXIMUS X HERO (WI-FI AC) Z370 DDR4 ATX](https://uk.buildcores.com/products/Motherboard/dibg36bus/Asus-ROG-MAXIMUS-X-HERO-(WI-FI-AC)-Z370-DDR4-ATX)|[£43.99 (BackToTheOffice)](https://www.awin1.com/cread.php?awinmid=61655&awinaffid=743627&campaign=BuildCores.com&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Fd-link-2-port-gigabit-poe-extender%3Fvariant%3D56014907703678)|
+|GPU|[MSI GeForce GT 710 2GD3H LP 2GB DDR3](https://uk.buildcores.com/products/GPU/oory9ut6e/MSI-GeForce-GT-710-2GD3H-LP-2GB-DDR3)|[£49.99 (Amazon)](https://www.amazon.co.uk/dp/B01AY78MLM?tag=buildcoresx-21&linkCode=ogi&th=1&psc=1)|
+|RAM|[Patriot Signature Line SODIMM DDR4-2400 CL19 4GB (1x4GB)](https://uk.buildcores.com/products/RAM/y99bf8bca/Patriot-Signature-Line-SODIMM-DDR4-2400-CL19-4GB-(1x4GB))|[£19.99 (BackToTheOffice)](https://www.awin1.com/cread.php?awinmid=61655&awinaffid=743627&campaign=BuildCores.com&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Fpatriot-memory-signature-line-psd44g240081s-memory-module-4-gb-1-x-4-gb-ddr4-260-pin-so-dimm%3Fvariant%3D57404618768766)|
+|CPU Cooler|[AMD Wraith Stealth Socket AM4](https://uk.buildcores.com/products/CPUCooler/kzbbooyz9/AMD-Wraith-Stealth-Socket-AM4)|[£9.99 (Amazon)](https://www.amazon.co.uk/dp/B07MFMFL7R?tag=buildcoresx-21&linkCode=ogi&th=1&psc=1)|
+|Storage|[FanXiang S101 128GB SSD 2.5" SATA 6.0 Gb/s](https://uk.buildcores.com/products/Storage/7vhcvb9cj/FanXiang-S101-128GB-SSD-2.5%22-SATA-6.0-Gb-s)|[£23.99 (Amazon)](https://www.amazon.co.uk/dp/B09XHPHKPJ?tag=buildcoresx-21&linkCode=ogi&th=1&psc=1)|
+|Power Supply|[be quiet! Straight Power 12 Black 750W Fully Modular 80+ Platinum](https://uk.buildcores.com/products/PSU/etfwc1dlu/be-quiet!-Straight-Power-12-Black-750W-Fully-Modular-80%2B-Platinum)|[£19.99 (ScanComputer)](https://www.awin1.com/cread.php?awinmid=15473&awinaffid=743627&ued=https%3A%2F%2Fwww.scan.co.uk%2Fproducts%2Fcorsair-pc-diy-precision-toolkit-65-nickel-plated-screw-bits-extension-rod-magnetised-tray-driver-ca)|
+|Case Fan|[Thermalright TL-P12W-S 120mm White ARGB](https://uk.buildcores.com/products/CaseFan/ug4poe0wh/Thermalright-TL-P12W-S-120mm-White-ARGB)|[£6.00 (Computer Orbit)](https://computerorbit.com/products/thermalright-tl-p12w-s-white-argb-120mm-pwm-fan?ref=buildcores)|
+|Keyboard|[Logitech K780 Wireless Slim Keyboard](https://uk.buildcores.com/products/Keyboard/kcq52gdjg/Logitech-K780-Wireless-Slim-Keyboard)|[£69.99 (Logitech UK)](https://logitech-emea.pxf.io/c/2299452/897251/11966?prodsku=920-008042&u=https%3A%2F%2Fwww.logitech.com%2Fen-gb%2Fshop%2Fp%2Fk780-multi-device-wireless-keyboard&intsrc=CATF_7084)|
+|Monitor|[Dell Pro P 24 16:10 USB-C Hub Monitor - P2426E](https://uk.buildcores.com/products/Monitor/99vtzjyno/Dell-Pro-P-24-16%3A10-USB-C-Hub-Monitor-P2426E)|[£189.98 (ScanComputer)](https://www.awin1.com/cread.php?awinmid=15473&awinaffid=743627&ued=https%3A%2F%2Fwww.scan.co.uk%2Fproducts%2F24-dell-pro-p-24-p2426he-monitor-ips-1920-x-1080-120hz-5ms-hdmi-14-dp-14-usb-hub)|
+|Mouse|[Logitech M220 Wireless Mouse with Silent Clicks](https://uk.buildcores.com/products/Mouse/th26ruol1/Logitech-M220-Wireless-Mouse-with-Silent-Clicks)|[£17.49 (Box.co)](https://www.awin1.com/cread.php?awinmid=100685&awinaffid=743627&campaign=BuildCores&ued=https%3A%2F%2Fbox.co.uk%2F910-004878-logitech-m220-wireless-1000-dpi-mouse)|
+| | | |
+|**Total Price**|**$572.06**| |
+|[BuildCores Web](https://uk.buildcores.com)|[BuildCores iOS](https://apps.apple.com/us/app/buildcores-part-picker-for-pc/id1441971434)|[BuildCores Android](https://play.google.com/store/apps/details?id=com.buildcores.buildcores&pcampaignid=web_share)|
