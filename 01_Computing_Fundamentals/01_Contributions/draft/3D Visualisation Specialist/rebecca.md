@@ -1,4 +1,5 @@
-![Relative](/b6fad45e-dd43-4f20-94b7-cd821e38a552.png)
+!<img width="2400" height="1260" alt="image" src="https://github.com/user-attachments/assets/141f6794-3aae-42d7-b25e-3c805c470b27" />
+
 
 
 BuildCores Parts List: [Link](https://uk.buildcores.com/builds/oqTEw_EBN?share=true)
