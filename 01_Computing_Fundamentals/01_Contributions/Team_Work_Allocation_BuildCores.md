@@ -5,7 +5,7 @@
 
 | | |
 |---|---|
-| **Team name** |4 brains 1 cell |
+| **Team name** |4 Brains 1 Cell |
 | **Repository** | |
 | **Submission date** | Friday 23 October 2026 |
 | **How we'll keep in touch** | *whats app group |
@@ -18,8 +18,8 @@
 |--------|--------------------|-----|-------------|-------------------|
 |Hasan Uzsoy | Administrative Assistant | 3 | £850 | Basic office hardware |
 |Hashim Ghaffar | Project Manager | 2 | £1,250 | Business workstation |
-|kelly-marie allum | Architect / CAD Designer | 5 | £2,350 | CAD build with dedicated GPU |
-|rebecca wood | 3D Visualisation Specialist | 2 | £3,600 | High-performance rendering |
+|Kelly-Marie Allum | Architect / CAD Designer | 5 | £2,350 | CAD build with dedicated GPU |
+|Rebecca Wood | 3D Visualisation Specialist | 2 | £3,600 | High-performance rendering |
 
 > Each member owns one role build: create the base unit on BuildCores.com, cost the peripherals from reputable UK retailers, and justify each choice for the role. Total allocated hardware budget £24,000, plus £2,000 contingency = **£26,000 team maximum**.
 
