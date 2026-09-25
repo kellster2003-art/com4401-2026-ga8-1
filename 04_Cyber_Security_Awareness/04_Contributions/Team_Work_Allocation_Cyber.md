@@ -5,9 +5,9 @@
 
 | | |
 |---|---|
-| **Team name** | |
+| **Team name** |4 Brains 1 Cell |
 | **Repository** | |
-| **How we'll keep in touch** | *(e.g. group chat, weekly check-in)* |
+| **How we'll keep in touch** | Whats app |
 
 ---
 
@@ -16,10 +16,10 @@
 | Section / theme | Responsible member(s) | Draft ready by |
 |-----------------|-----------------------|----------------|
 | Section 1: Password hygiene | Hasan Uzsoy | |
-| Section 2: Two-factor authentication | | |
-| Section 3: Phishing recognition | | |
-| Section 4: Safe use of devices | | |
-| Section 5: Public Wi-Fi | | |
+| Section 2: Two-factor authentication |Rebecca wood | |
+| Section 3: Phishing recognition |Hashim Ghaffar | |
+| Section 4: Safe use of devices |Kelly-Marie | |
+| Section 5: Public Wi-Fi |Kelly-Marie and Rebecca | |
 | Introduction & conclusion (whole team) | | |
 | Contents page & reference list (compile last) | | |
 
