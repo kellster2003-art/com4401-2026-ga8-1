@@ -15,7 +15,7 @@
 
 | Section / theme | Responsible member(s) | Draft ready by |
 |-----------------|-----------------------|----------------|
-| Section 1: Password hygiene | | |
+| Section 1: Password hygiene | Hasan Uzsoy | |
 | Section 2: Two-factor authentication | | |
 | Section 3: Phishing recognition | | |
 | Section 4: Safe use of devices | | |
