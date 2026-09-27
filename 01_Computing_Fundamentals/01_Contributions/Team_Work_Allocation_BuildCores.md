@@ -31,12 +31,12 @@ R = Responsible · A = Accountable · C = Consulted · I = Informed
 
 | Task | Hasan Uzsoy | Hashim Ghaffar | Kelly-Marie Allum | Rebecca Wood |
 |------|----------|----------|----------|----------|
-| Administrative Assistant build (BuildCores + peripherals) |R| | | |
-| Project Manager build (BuildCores + peripherals) | |R| | |
-| Architect / CAD Designer build (BuildCores + peripherals) | | |R| |
+| Administrative Assistant build (BuildCores + peripherals) |R A I| | | |
+| Project Manager build (BuildCores + peripherals) | |R I A| | |
+| Architect / CAD Designer build (BuildCores + peripherals) | | |R I A| |
 | 3D Visualisation Specialist build (BuildCores + peripherals) | | | |R A I|
-| Component justifications (role suitability & value) | | | | |
-| Pricing evidence (screenshots, links, date checked) | | | | |
+| Component justifications (role suitability & value) |R A| R A| R A| R A|
+| Pricing evidence (screenshots, links, date checked) | R| R| R| R|
 | Combined budget & comparison table | | | | |
 | Final team recommendation | | | | |
 | Ethical / responsible purchasing commentary | | | | |
