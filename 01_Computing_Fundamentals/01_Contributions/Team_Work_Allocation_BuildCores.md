@@ -6,7 +6,7 @@
 | | |
 |---|---|
 | **Team name** |4 Brains 1 Cell |
-| **Repository** | |
+| **Repository** |https://github.com/kellster2003-art/com4401-2026-ga8-1 |
 | **Submission date** | Friday 23 October 2026 |
 | **How we'll keep in touch** | *whats app group |
 
