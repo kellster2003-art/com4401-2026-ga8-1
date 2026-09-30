@@ -16,10 +16,10 @@
 
 | Member | Stage / area owned | What they'll deliver |
 |--------|--------------------|----------------------|
-| | Analysis | Requirements list and IPO (Input–Process–Output) chart |
-| | Design | Flowchart / pseudocode and test plan design |
-| | Build | Working Flowgorithm solution matching the design |
-| | Testing | Test table run with normal, abnormal and extreme data |
+|HU | Analysis | Requirements list and IPO (Input–Process–Output) chart |
+|KA | Design | Flowchart / pseudocode and test plan design |
+|RW | Build | Working Flowgorithm solution matching the design |
+|HQ | Testing | Test table run with normal, abnormal and extreme data |
 
 > Add or remove a row for a 3- or 5-person team. The build should follow the agreed design, and the test data should be decided *before* coding, not after. Shared tasks (deployment notes, final walkthrough, ethics/professional write-up) can be added as extra rows.
 
@@ -29,7 +29,7 @@
 
 R = Responsible · A = Accountable · C = Consulted · I = Informed
 
-| Task | Member 1 | Member 2 | Member 3 | Member 4 |
+| Task | Kelly-Marie Allum | Rebecca Wood | Hasan Uzsoy | Hashim Ghaffar |
 |------|----------|----------|----------|----------|
 | Requirements analysis (what the program must do) | | | | |
 | IPO chart (Input – Process – Output) | | | | |
