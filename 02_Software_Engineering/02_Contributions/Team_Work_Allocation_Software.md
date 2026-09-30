@@ -6,9 +6,9 @@
 | | |
 |---|---|
 | **Team name** |Four Brains One Cell |
-| **Repository** | |
+| **Repository** |https://github.com/kellster2003-art/com4401-2026-ga8-1 |
 | **Submission date** | Friday 23 October 2026 |
-| **How we'll keep in touch** | *(e.g. group chat, weekly check-in)* |
+| **How we'll keep in touch** | Group Chat (WhatsApp)|
 
 ---
 
