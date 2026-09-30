@@ -31,16 +31,16 @@ R = Responsible · A = Accountable · C = Consulted · I = Informed
 
 | Task | Kelly-Marie Allum | Rebecca Wood | Hasan Uzsoy | Hashim Ghaffar |
 |------|----------|----------|----------|----------|
-| Requirements analysis (what the program must do) |C |C |R |I |
-| IPO chart (Input – Process – Output) | | | | |
-| Flowchart / pseudocode design | | | | |
-| Test plan (normal, abnormal, extreme data) | | | | |
-| Flowgorithm build (variables, input, processing) | | | | |
-| Flowgorithm build (decisions, loops, output) | | | | |
-| Validation / error handling | | | | |
-| Testing against the plan & recording results | | | | |
-| Deployment notes (how it would be rolled out) | | | | |
-| Ethical / professional considerations write-up | | | | |
-| Final team walkthrough & consistency check | | | | |
+| Requirements analysis (what the program must do) |R |R |R |I |
+| IPO chart (Input – Process – Output) |R |R |R |I |
+| Flowchart / pseudocode design | |R | | |
+| Test plan (normal, abnormal, extreme data) |C |C |R |I |
+| Flowgorithm build (variables, input, processing) |R | | | |
+| Flowgorithm build (decisions, loops, output) |R | | | |
+| Validation / error handling | | |R | |
+| Testing against the plan & recording results | |R | | |
+| Deployment notes (how it would be rolled out) | | | |R |
+| Ethical / professional considerations write-up | | | |R |
+| Final team walkthrough & consistency check |RA |RA |RA |RA |
 
 > Columns are the team members — replace the headers with names. Add or remove a column for a 3- or 5-person team, and make sure every stage (analysis → design → build → test → deploy) is owned by someone.
