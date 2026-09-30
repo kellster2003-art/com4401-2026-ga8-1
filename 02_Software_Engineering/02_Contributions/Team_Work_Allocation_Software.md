@@ -31,7 +31,7 @@ R = Responsible · A = Accountable · C = Consulted · I = Informed
 
 | Task | Kelly-Marie Allum | Rebecca Wood | Hasan Uzsoy | Hashim Ghaffar |
 |------|----------|----------|----------|----------|
-| Requirements analysis (what the program must do) | | | | |
+| Requirements analysis (what the program must do) |C |C |R |I |
 | IPO chart (Input – Process – Output) | | | | |
 | Flowchart / pseudocode design | | | | |
 | Test plan (normal, abnormal, extreme data) | | | | |
