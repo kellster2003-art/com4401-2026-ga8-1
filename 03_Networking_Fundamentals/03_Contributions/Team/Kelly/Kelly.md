@@ -31,7 +31,7 @@ Switch vs router|Office/External switch; Office Router|
 **Device**|**IP address**|**Subnet mask**|**Gateway**|**DNS**|**Screenshots**|
 |:-|:-|:-|:-|:-|:-|
 Router int.1 (Office side)|192.168.10.1|255.255.255.0|||<img width="1258" height="857" alt="1 router int 1" src="https://github.com/user-attachments/assets/8d2a0203-7b0c-475e-950f-b6c4892b0f88" />
-Router int.2 (External side)|203.0.113.1|255.255.255.0|<img width="1248" height="848" alt="2 router in 2" src="https://github.com/user-attachments/assets/553caf80-1dfa-4819-aedc-10e280cc7504" />
+Router int.2 (External side)|203.0.113.1|255.255.255.0|||<img width="1248" height="848" alt="2 router in 2" src="https://github.com/user-attachments/assets/553caf80-1dfa-4819-aedc-10e280cc7504" />
 DNS Server|192.168.10.2|255.255.255.0|192.168.10.1|192.168.10.2|<img width="1912" height="1131" alt="3 DNS SERVER" src="https://github.com/user-attachments/assets/b0b983a1-0283-455c-947b-219028b03fde" />
 Office Server|192.168.10.10|255.255.255.0|192.168.10.1|192.168.10.2|<img width="1917" height="1127" alt="4 OFFICE SERVER" src="https://github.com/user-attachments/assets/f259a9fd-3c0a-4147-96dc-89ae2f24186e" />
 Admin PC|192.168.10.101|255.255.255.0|192.168.10.1|192.168.10.2||:-|:-|<img width="1667" height="1197" alt="5 ADMIN PC" src="https://github.com/user-attachments/assets/50d3423b-a999-4659-af0d-bdcd9c64e4df" />
