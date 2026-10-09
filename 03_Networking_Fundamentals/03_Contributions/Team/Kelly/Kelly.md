@@ -53,6 +53,8 @@ DNS Server|192.168.10.2|255.255.255.0|192.168.10.1|192.168.10.2|<img width="1912
 Office Server|192.168.10.10|255.255.255.0|192.168.10.1|192.168.10.2|<img width="1917" height="1127" alt="4 OFFICE SERVER" src="https://github.com/user-attachments/assets/f259a9fd-3c0a-4147-96dc-89ae2f24186e" />
 Admin PC|192.168.10.101|255.255.255.0|192.168.10.1|192.168.10.2| <img width="1667" height="1197" alt="5 ADMIN PC" src="https://github.com/user-attachments/assets/50d3423b-a999-4659-af0d-bdcd9c64e4df" />
 Project PC|192.168.10.111|255.255.255.0|192.168.10.1|192.168.10.2|<img width="1912" height="1132" alt="6 PROJECT PC" src="https://github.com/user-attachments/assets/124c4a84-9491-4a76-b0d3-e418c919e0a6" />
-CAD PC|192.168.10.121|255.255.255.0|192.168.10.1|192.168.10.2|   <img width="1717" height="246" alt="Cad Pc" src="https://github.com/user-attachments/assets/53c1c432-641a-4c38-aeff-dff207f6981d" />|
-Visual PC|192.168.10.131|255.255.255.0|192.168.10.1|192.168.10.2|<img width="1715" height="237" alt="Visual PC" src="https://github.com/user-attachments/assets/00981271-0e77-4c62-b1d4-543b2819e427" />|
-ISP / Cloud Server|203.0.113.10|255.255.255.0|203.0.113.1|192.168.10.2|<img width="1714" height="243" alt="ISP_CLOUD server" src="https://github.com/user-attachments/assets/faaab48a-dc6d-471b-9c89-9935ba492ac9" />|
+CAD PC|192.168.10.121|255.255.255.0|192.168.10.1|192.168.10.2|   <img width="1916" height="1135" alt="7 CAD PC" src="https://github.com/user-attachments/assets/eb8ee2e9-f47b-4516-8b0a-d88a76b8c143" />
+Visual PC|192.168.10.131|255.255.255.0|192.168.10.1|192.168.10.2|<img width="1917" height="1133" alt="8 VISUAL PC" src="https://github.com/user-attachments/assets/50b32336-5392-4dc5-8522-08e5cc11760d" />
+ISP / Cloud Server|203.0.113.10|255.255.255.0|203.0.113.1|192.168.10.2|<img width="1916" height="1136" alt="9 IPS CLOUD" src="https://github.com/user-attachments/assets/fd92e67e-5ee3-453e-8555-6ae6175d5d81" />
+
+
