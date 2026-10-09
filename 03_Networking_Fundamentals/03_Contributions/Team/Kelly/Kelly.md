@@ -10,7 +10,7 @@
 | External WEB BY NAME |<img width="960" height="1125" alt="2 pc to office#" src="https://github.com/user-attachments/assets/9b80d951-2071-47fa-9df6-b204c9874a97" />|http://cloud.archstudio.example|](https://www.amazon.co.uk/dp/B0DHWTLNPJ?tag=buildcoresx-21&linkCode=ogi&th=1&psc=1)|
 
 
-
+|:-|:-|
 Concept 	Where it appears 
 TCP/IP 	All device communication 
 IP addressing 	Every device has a unique IP 
