@@ -19,7 +19,7 @@ Protocols and concepts to explain (at least five)
 **Concept**|**Where it appears**|**Explainations**
 |:-|:-|:-|
 TCP/IP|All device communication| 
-IP addressing|Every device has a unique IP| 
+IP addressing|Every device has a unique IP|An IP address identifies device on a network so that you can send data to it. 
 Subnet mask|255.255.255.0 on both networks| 
 Gateway|Client PCs use 192.168.10.1| 
 DNS|intranet.archstudio.local etc.| 
