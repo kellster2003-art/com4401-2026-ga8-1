@@ -28,6 +28,11 @@ Client-server|CAD PC → Office/Cloud Server|
 Switch vs router|Office/External switch; Office Router| 
 
 
+
+
+
+Evidence to submit  
+
 |**Required Evidence**|**Screenshot**|
 |:-|:-|
 Topology screenshot (office LAN, router, external switch, ISP/cloud server)||
