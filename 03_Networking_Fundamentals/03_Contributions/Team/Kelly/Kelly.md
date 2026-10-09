@@ -26,3 +26,15 @@ HTTP|Opening pages in the browser|
 ICMP / ping|Ping tests| 
 Client-server|CAD PC → Office/Cloud Server| 
 Switch vs router|Office/External switch; Office Router| 
+
+
+|**Required Evidence**|**Screenshot**|
+|:-|:-|
+Topology screenshot (office LAN, router, external switch, ISP/cloud server)||
+Completed IP addressing table|| 
+Router-interface screenshot||
+DNS-records screenshot||
+Internal and external web pages opening from the CAD PC||
+At least three successful ping tests||
+a protocol table explaining 5+ concepts||
+a short explanation of the LAN vs external network and of the client-server model|| 
