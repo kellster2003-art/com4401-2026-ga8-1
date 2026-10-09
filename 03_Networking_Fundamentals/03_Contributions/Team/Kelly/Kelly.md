@@ -13,6 +13,7 @@
 
 
 
+<img width="1917" height="1135" alt="TOP" src="https://github.com/user-attachments/assets/629cee3b-dde1-43d4-9f44-374e69626a33" />
 Protocols and concepts to explain (at least five) 
 
 **Concept**|**Where it appears**|**Explainations**
@@ -27,20 +28,6 @@ ICMP / ping|Ping tests|
 Client-server|CAD PC → Office/Cloud Server| 
 Switch vs router|Office/External switch; Office Router| 
 
-Evidence to submit  
-
-|**Required Evidence**|**Screenshot**|
-|:-|:-|
-Topology screenshot (office LAN, router, external switch, ISP/cloud server)||
-Completed IP addressing table|| 
-Router-interface screenshot||
-DNS-records screenshot||
-Internal and external web pages opening from the CAD PC||
-At least three successful ping tests||
-a protocol table explaining 5+ concepts||
-a short explanation of the LAN vs external network and of the client-server model|| 
-
-
 **Device**|**IP address**|**Subnet mask**|**Gateway**|**DNS**|**Screenshots**|
 |:-|:-|:-|:-|:-|:-|
 Router int.1 (Office side)|192.168.10.1|255.255.255.0|–|-|<img width="1258" height="857" alt="1 router int 1" src="https://github.com/user-attachments/assets/8d2a0203-7b0c-475e-950f-b6c4892b0f88" />
@@ -52,5 +39,20 @@ Project PC|192.168.10.111|255.255.255.0|192.168.10.1|192.168.10.2|<img width="19
 CAD PC|192.168.10.121|255.255.255.0|192.168.10.1|192.168.10.2|   <img width="1916" height="1135" alt="7 CAD PC" src="https://github.com/user-attachments/assets/eb8ee2e9-f47b-4516-8b0a-d88a76b8c143" />
 Visual PC|192.168.10.131|255.255.255.0|192.168.10.1|192.168.10.2|<img width="1917" height="1133" alt="8 VISUAL PC" src="https://github.com/user-attachments/assets/50b32336-5392-4dc5-8522-08e5cc11760d" />
 ISP / Cloud Server|203.0.113.10|255.255.255.0|203.0.113.1|192.168.10.2|<img width="1916" height="1136" alt="9 IPS CLOUD" src="https://github.com/user-attachments/assets/fd92e67e-5ee3-453e-8555-6ae6175d5d81" />
+
+
+
+Evidence to submit  
+
+|**Required Evidence**|**Screenshot**|
+|:-|:-|
+Topology screenshot (office LAN, router, external switch, ISP/cloud server)|<img width="1917" height="1135" alt="TOP" src="https://github.com/user-attachments/assets/c00c62c4-ba91-44fa-9ae4-e5d6df9b4e00" />
+|Completed IP addressing table|| 
+Router-interface screenshot||
+DNS-records screenshot||
+Internal and external web pages opening from the CAD PC||
+At least three successful ping tests||
+a protocol table explaining 5+ concepts||
+a short explanation of the LAN vs external network and of the client-server model|| 
 
 
