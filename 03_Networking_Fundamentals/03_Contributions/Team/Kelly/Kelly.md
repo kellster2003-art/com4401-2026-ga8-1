@@ -1,19 +1,3 @@
-Evidence to submit  
-
-|**Required Evidence**|**Screenshot**|
-|:-|:-|
-Topology screenshot (office LAN, router, external switch, ISP/cloud server)||
-Completed IP addressing table|| 
-Router-interface screenshot||
-DNS-records screenshot||
-Internal and external web pages opening from the CAD PC||
-At least three successful ping tests||
-a protocol table explaining 5+ concepts||
-a short explanation of the LAN vs external network and of the client-server model|| 
-
-
-
-
 |**TEST**|**SCREENSHOTS**|**COMMAND ACTIONS**|**RESULTS**|
 |:-|:-|:-|:-|
 |LAN PC TO PC|[<img width="1131" height="1122" alt="1 lan pc to pc" src="https://github.com/user-attachments/assets/396f2099-f6f7-4cab-85a2-ddcd8a2564ab" />)|PING.168.10.101|](https://www.amazon.co.uk/dp/B0DHWTLNPJ?tag=buildcoresx-21&linkCode=ogi&th=1&psc=1)|
@@ -43,7 +27,18 @@ ICMP / ping|Ping tests|
 Client-server|CAD PC → Office/Cloud Server| 
 Switch vs router|Office/External switch; Office Router| 
 
+Evidence to submit  
 
+|**Required Evidence**|**Screenshot**|
+|:-|:-|
+Topology screenshot (office LAN, router, external switch, ISP/cloud server)||
+Completed IP addressing table|| 
+Router-interface screenshot||
+DNS-records screenshot||
+Internal and external web pages opening from the CAD PC||
+At least three successful ping tests||
+a protocol table explaining 5+ concepts||
+a short explanation of the LAN vs external network and of the client-server model|| 
 
 
 **Device**|**IP address**|**Subnet mask**|**Gateway**|**DNS**|**Screenshots**|
