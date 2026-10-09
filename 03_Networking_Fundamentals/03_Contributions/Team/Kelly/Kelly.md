@@ -48,8 +48,10 @@ Evidence to submit
 |:-|:-|
 Topology screenshot (office LAN, router, external switch, ISP/cloud server)|<img width="1917" height="1135" alt="TOP" src="https://github.com/user-attachments/assets/c00c62c4-ba91-44fa-9ae4-e5d6df9b4e00" />
 |Completed IP addressing table|| 
-Router-interface screenshot||
-DNS-records screenshot||
+Router-interface screenshot|<img width="1407" height="421" alt="Screenshot 2026-10-09 194211" src="https://github.com/user-attachments/assets/1aba2e3a-4ea4-4a20-9482-56f4116caaea" />|
+Router-interface screenshot 2|<img width="1415" height="945" alt="Screenshot 2026-10-09 194434" src="https://github.com/user-attachments/assets/a67be74d-bd7e-4528-865f-5d5bc85d5dea" />
+
+|DNS-records screenshot||
 Internal and external web pages opening from the CAD PC||
 At least three successful ping tests||
 a protocol table explaining 5+ concepts||
