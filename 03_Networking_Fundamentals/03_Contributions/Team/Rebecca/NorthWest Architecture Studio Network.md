@@ -1,5 +1,6 @@
 Required Tests
-
+<br>
+<br>
 |**Test**|**Command Actions**|**What it Proves**|**Screenshot**|
 |:-|:-|:-|:-|
 |LAN PC-to-PC|ping 192.168.10.101|What it proves?|!<img width="1711" height="1374" alt="1)_LAN_PC_to_PC" src="https://github.com/user-attachments/assets/3e63efb8-1c0e-49c7-baeb-f13f12be68a1" />
@@ -15,9 +16,9 @@ Required Tests
 <br>
 <br>
 EXPLINATION PROTOCALS AND CONCEPTS
-
+<br>
 |**CONCEPTS**|**WHERE IT APPEARS**|**EXPLINATION**|
-|:-|:-|:-|
+|:-|:-|:-|:-|
 TCP/IP|All device communication|
 IP addressing|Every device has a unique IP| 
 Subnet mask|255.255.255.0 on both networks| 
