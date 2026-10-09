@@ -8,3 +8,16 @@
 |External server ping |<img width="960" height="1117" alt="6 external server ping" src="https://github.com/user-attachments/assets/0de460fa-894f-45f7-8bd7-6a9a76725c63" />|ping 203.0.113.10|](https://www.amazon.co.uk/dp/B0DHWTLNPJ?tag=buildcoresx-21&linkCode=ogi&th=1&psc=1)|
 |External WEB BY IP |<img width="948" height="1121" alt="7 exturnel web by ip" src="https://github.com/user-attachments/assets/36c9f621-21d2-4ced-bb2d-5726773c634a" />|http://203.0.113.10|](https://www.amazon.co.uk/dp/B0DHWTLNPJ?tag=buildcoresx-21&linkCode=ogi&th=1&psc=1)|
 | External WEB BY NAME |<img width="960" height="1125" alt="2 pc to office#" src="https://github.com/user-attachments/assets/9b80d951-2071-47fa-9df6-b204c9874a97" />|http://cloud.archstudio.example|](https://www.amazon.co.uk/dp/B0DHWTLNPJ?tag=buildcoresx-21&linkCode=ogi&th=1&psc=1)|
+
+
+
+Concept 	Where it appears 
+TCP/IP 	All device communication 
+IP addressing 	Every device has a unique IP 
+Subnet mask 	255.255.255.0 on both networks 
+Gateway 	Client PCs use 192.168.10.1 
+DNS 	intranet.archstudio.local etc. 
+HTTP 	Opening pages in the browser 
+ICMP / ping 	Ping tests 
+Client-server 	CAD PC → Office/Cloud Server 
+Switch vs router 	Office/External switch; Office Router 
