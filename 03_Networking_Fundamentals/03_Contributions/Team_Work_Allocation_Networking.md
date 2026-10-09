@@ -29,7 +29,7 @@
 
 R = Responsible · A = Accountable · C = Consulted · I = Informed
 
-| Task | Member 1 | Member 2 | Member 3 | Member 4 |
+| Task | Kelly | Rebecca | Hashim | Hasan |
 |------|----------|----------|----------|----------|
 | LAN design (devices, switches, topology) | | | | |
 | External network / internet gateway design | | | | |
