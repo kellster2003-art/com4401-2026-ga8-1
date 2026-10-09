@@ -10,6 +10,11 @@
 | External WEB BY NAME |<img width="960" height="1125" alt="2 pc to office#" src="https://github.com/user-attachments/assets/9b80d951-2071-47fa-9df6-b204c9874a97" />|http://cloud.archstudio.example|](https://www.amazon.co.uk/dp/B0DHWTLNPJ?tag=buildcoresx-21&linkCode=ogi&th=1&psc=1)|
 
 
+
+
+
+Protocols and concepts to explain (at least five) 
+
 **Concept**|**Where it appears**|**Explainations**
 |:-|:-|:-|
 TCP/IP|All device communication| 
