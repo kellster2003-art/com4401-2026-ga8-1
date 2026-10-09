@@ -47,7 +47,7 @@ a short explanation of the LAN vs external network and of the client-server mode
 
 **Device**|**IP address**|**Subnet mask**|**Gateway**|**DNS**|**Screenshots**|
 |:-|:-|:-|:-|:-|:-|
-Router int.1 (Office side)|192.168.10.1|255.255.255.0|–|-|<img width="1701" height="232" alt="Screenshot 2026-10-09 151707" src="https://github.com/user-attachments/assets/37a5bd6e-9694-4b44-b5da-82daae82ffc5" />|
+Router int.1 (Office side)|192.168.10.1|255.255.255.0|–|-|<img width="1258" height="857" alt="1 router int 1" src="https://github.com/user-attachments/assets/8d2a0203-7b0c-475e-950f-b6c4892b0f88" />
 Router int.2 (External side)|203.0.113.1|255.255.255.0|–|–|<img width="1707" height="241" alt="Screenshot 2026-10-09 151659" src="https://github.com/user-attachments/assets/0025403b-1e96-484e-9e41-3f59420b64fe" />| 
 DNS Server|192.168.10.2|255.255.255.0|192.168.10.1|192.168.10.2|<img width="1714" height="242" alt="DNS Server" src="https://github.com/user-attachments/assets/c27a9395-a9d4-4e8d-97b6-6c449335a2df" />|
 Office Server|192.168.10.10|255.255.255.0|192.168.10.1|192.168.10.2|<img width="1708" height="241" alt="Office Server" src="https://github.com/user-attachments/assets/f23b9b82-ea63-4808-a5b0-a1cbe33f2909" />| 
