@@ -17,17 +17,18 @@ Required Tests
 <br>
 EXPLINATION PROTOCALS AND CONCEPTS
 <br>
+
 |**CONCEPTS**|**WHERE IT APPEARS**|**EXPLINATION**|
-|:-|:-|:-|:-|
-TCP/IP|All device communication|
-IP addressing|Every device has a unique IP| 
-Subnet mask|255.255.255.0 on both networks| 
-Gateway|Client PCs use 192.168.10.1| 
-DNS|intranet.archstudio.local etc.| 
-HTTP|Opening pages in the browser| 
-ICMP / ping|Ping tests|
-Client-server|CAD PC → Office/Cloud Server|
-Switch vs router| Office/External switch; Office Router|
+|:-|:-|:-|
+TCP/IP|All device communication||
+IP addressing|Every device has a unique IP|| 
+Subnet mask|255.255.255.0 on both networks|| 
+Gateway|Client PCs use 192.168.10.1|| 
+DNS|intranet.archstudio.local etc.||
+HTTP|Opening pages in the browser|| 
+ICMP / ping|Ping tests||
+Client-server|CAD PC → Office/Cloud Server||
+Switch vs router| Office/External switch; Office Router||
 <br>
 <br>
 <br>
@@ -36,14 +37,14 @@ Evidence to submit, team roles & contribution
 
 |**Required Evidence**|**Screenshot**|
 |:-|:-|
-Topology screenshot (office LAN, router, external switch, ISP/cloud server)|<img width="1500" height="1300" alt="0) _Topology" src="https://github.com/user-attachments/assets/368eee43-a075-406e-97ee-45618438ade5" />|
-Completed IP addressing table|| 
-Router-interface screenshot||
-DNS-records screenshot||
-Internal and external web pages opening from the CAD PC||
-At least three successful ping tests||
-a protocol table explaining 5+ concepts||
-a short explanation of the LAN vs external network and of the client-server model|| 
+Topology screenshot (office LAN, router, external switch, ISP/cloud server)|!<img width="1500" height="1300" alt="0) _Topology" src="https://github.com/user-attachments/assets/368eee43-a075-406e-97ee-45618438ade5" />|
+Completed IP addressing table|!<img width="1101" height="902" alt="image" src="https://github.com/user-attachments/assets/c89fbf00-7124-4437-848f-191390e27f1e" />|
+Router-interface screenshot|
+DNS-records screenshot|
+Internal and external web pages opening from the CAD PC|
+At least three successful ping tests|
+a protocol table explaining 5+ concepts|
+a short explanation of the LAN vs external network and of the client-server model|
 <br>
 <br>
 
