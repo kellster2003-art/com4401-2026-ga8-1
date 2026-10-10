@@ -24,7 +24,7 @@ Subnet mask|255.255.255.0 on both networks|This tells us whitch part of the IP a
 Gateway|Client PCs use 192.168.10.1| 
 DNS|intranet.archstudio.local etc.| 
 HTTP|Opening pages in the browser| 
-ICMP / ping|Ping tests| 
+ICMP / ping|Ping tests|Ping is used to check whether devices can be reached over the network.
 Client-server|CAD PC → Office/Cloud Server| 
 Switch vs router|Office/External switch; Office Router| 
 
