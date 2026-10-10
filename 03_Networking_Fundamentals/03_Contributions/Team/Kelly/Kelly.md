@@ -26,7 +26,11 @@ DNS|intranet.archstudio.local etc.|
 HTTP|Opening pages in the browser| 
 ICMP / ping|Ping tests|Ping is used to check whether devices can be reached over the network.
 Client-server|CAD PC → Office/Cloud Server| 
-Switch vs router|Office/External switch; Office Router| 
+Switch vs router|Office/External switch; Office Router|A switch connects multiple PCs on the same network, and a router can connect two or more separate networks
+
+
+
+
 
 **Device**|**IP address**|**Subnet mask**|**Gateway**|**DNS**|**Screenshots**|
 |:-|:-|:-|:-|:-|:-|
@@ -39,6 +43,11 @@ Project PC|192.168.10.111|255.255.255.0|192.168.10.1|192.168.10.2|<img width="19
 CAD PC|192.168.10.121|255.255.255.0|192.168.10.1|192.168.10.2|<img width="1916" height="1135" alt="7 CAD PC" src="https://github.com/user-attachments/assets/eb8ee2e9-f47b-4516-8b0a-d88a76b8c143" />
 Visual PC|192.168.10.131|255.255.255.0|192.168.10.1|192.168.10.2|<img width="1917" height="1133" alt="8 VISUAL PC" src="https://github.com/user-attachments/assets/50b32336-5392-4dc5-8522-08e5cc11760d" />
 ISP / Cloud Server|203.0.113.10|255.255.255.0|203.0.113.1|192.168.10.2|<img width="1916" height="1136" alt="9 IPS CLOUD" src="https://github.com/user-attachments/assets/fd92e67e-5ee3-453e-8555-6ae6175d5d81" />
+
+
+
+
+
 
 
 
