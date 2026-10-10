@@ -21,7 +21,7 @@ TCP/IP|All device communication|
 IP addressing|Every device has a unique IP|An IP address identifies device on a network so that you can send data to it. 
 Subnet mask|255.255.255.0 on both networks|This tells us whitch part of the IP address identifies the network and witch identifies the device 
 Gateway|Client PCs use 192.168.10.1| 
-DNS|intranet.archstudio.local etc.| 
+DNS|intranet.archstudio.local etc.|the DNS matches a website name to the IP address 
 HTTP|Opening pages in the browser|This tests whether you can open a web page from another computer on the network 
 ICMP / ping|Ping tests|Ping is used to check whether devices can be reached over the network.
 Client-server|CAD PC → Office/Cloud Server| 
