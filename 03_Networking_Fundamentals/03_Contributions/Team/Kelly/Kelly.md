@@ -3,12 +3,11 @@
 |LAN PC TO PC|[<img width="1131" height="1122" alt="1 lan pc to pc" src="https://github.com/user-attachments/assets/396f2099-f6f7-4cab-85a2-ddcd8a2564ab" />)|PING.168.10.101|](https://www.amazon.co.uk/dp/B0DHWTLNPJ?tag=buildcoresx-21&linkCode=ogi&th=1&psc=1)|
 |PC to Office Server |<img width="960" height="1125" alt="2 pc to office#" src="https://github.com/user-attachments/assets/9b80d951-2071-47fa-9df6-b204c9874a97" />|PING 192.168.10.10|](https://www.amazon.co.uk/dp/B0DHWTLNPJ?tag=buildcoresx-21&linkCode=ogi&th=1&psc=1)|
 |PC TO DNS SERVER |<img width="958" height="1128" alt="3 pc to dns" src="https://github.com/user-attachments/assets/dfdd3130-941d-4336-a97b-29ed5ad64ece" />|ping 192.168.10.2|](https://www.amazon.co.uk/dp/B0DHWTLNPJ?tag=buildcoresx-21&linkCode=ogi&th=1&psc=1)|http://intranet.archstudio.local|]
-|Internal web by IP|<img width="960" height="1128" alt="4 iternal web ip" src="https://github.com/user-attachments/assets/288af291-56f6-4020-84b2-8f29adf4b6a9" />|http://192.168.10.10|](https://www.amazon.co.uk/dp/B0DHWTLNPJ?tag=buildcoresx-21&linkCode=ogi&th=1&psc=1)|
+|Internal web by IP|<img width="960" height="1128" alt="4 iternal web ip" src="https://github.com/user-attachments/assets/288af291-56f6-4020-84b2-8f29adf4b6a9" />|http://192.168.10.10|I entered the IP Address into the browser and this cheacked that they can open the web on another browser that is on the same network. |
 |Internal web by name |<img width="955" height="1145" alt="5 internal web by name" src="https://github.com/user-attachments/assets/1200ba71-80e5-4eaa-a023-81a5e2ba0821" />|http://intranet.archstudio.local\]results
 |External server ping |<img width="960" height="1117" alt="6 external server ping" src="https://github.com/user-attachments/assets/0de460fa-894f-45f7-8bd7-6a9a76725c63" />|ping 203.0.113.10|](https://www.amazon.co.uk/dp/B0DHWTLNPJ?tag=buildcoresx-21&linkCode=ogi&th=1&psc=1)|
 |External WEB BY IP |<img width="948" height="1121" alt="7 exturnel web by ip" src="https://github.com/user-attachments/assets/36c9f621-21d2-4ced-bb2d-5726773c634a" />|http://203.0.113.10|](https://www.amazon.co.uk/dp/B0DHWTLNPJ?tag=buildcoresx-21&linkCode=ogi&th=1&psc=1)|
 | External WEB BY NAME |<img width="960" height="1125" alt="2 pc to office#" src="https://github.com/user-attachments/assets/9b80d951-2071-47fa-9df6-b204c9874a97" />|http://cloud.archstudio.example|](https://www.amazon.co.uk/dp/B0DHWTLNPJ?tag=buildcoresx-21&linkCode=ogi&th=1&psc=1)|
-
 
 
 
@@ -23,7 +22,7 @@ IP addressing|Every device has a unique IP|An IP address identifies device on a 
 Subnet mask|255.255.255.0 on both networks|This tells us whitch part of the IP address identifies the network and witch identifies the device 
 Gateway|Client PCs use 192.168.10.1| 
 DNS|intranet.archstudio.local etc.| 
-HTTP|Opening pages in the browser| 
+HTTP|Opening pages in the browser|This tests whether you can open a web page from another computer on the network 
 ICMP / ping|Ping tests|Ping is used to check whether devices can be reached over the network.
 Client-server|CAD PC → Office/Cloud Server| 
 Switch vs router|Office/External switch; Office Router|A switch connects multiple PCs on the same network, and a router can connect two or more separate networks
