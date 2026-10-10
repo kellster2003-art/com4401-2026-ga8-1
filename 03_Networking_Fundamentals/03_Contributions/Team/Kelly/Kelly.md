@@ -16,7 +16,6 @@
 
 
 
-<img width="1917" height="1135" alt="TOP" src="https://github.com/user-attachments/assets/629cee3b-dde1-43d4-9f44-374e69626a33" />
 Protocols and concepts to explain (at least five) 
 
 **Concept**|**Where it appears**|**Explainations**
@@ -34,7 +33,7 @@ Switch vs router|Office/External switch; Office Router|A switch connects multipl
 
 
 
-
+ IP addressing table
 **Device**|**IP address**|**Subnet mask**|**Gateway**|**DNS**|**Screenshots**|
 |:-|:-|:-|:-|:-|:-|
 Router int.1 (Office side)|192.168.10.1|255.255.255.0|||<img width="1258" height="857" alt="1 router int 1" src="https://github.com/user-attachments/assets/8d2a0203-7b0c-475e-950f-b6c4892b0f88" />
@@ -47,8 +46,9 @@ CAD PC|192.168.10.121|255.255.255.0|192.168.10.1|192.168.10.2|<img width="1916" 
 Visual PC|192.168.10.131|255.255.255.0|192.168.10.1|192.168.10.2|<img width="1917" height="1133" alt="8 VISUAL PC" src="https://github.com/user-attachments/assets/50b32336-5392-4dc5-8522-08e5cc11760d" />
 ISP / Cloud Server|203.0.113.10|255.255.255.0|203.0.113.1|192.168.10.2|<img width="1916" height="1136" alt="9 IPS CLOUD" src="https://github.com/user-attachments/assets/fd92e67e-5ee3-453e-8555-6ae6175d5d81" />
 
-
-
+|**Router-interface screenshot**|**Router-interface 2 screenshot**|
+|:-|:-|
+<img width="1407" height="421" alt="Screenshot 2026-10-09 194211" src="https://github.com/user-attachments/assets/5b87424c-76f5-4aa2-b74d-14eaccb170e3" />|<img width="1415" height="945" alt="Screenshot 2026-10-09 194434" src="https://github.com/user-attachments/assets/14601c39-8147-47ec-9478-64e532d5e80b" />
 
 
 
@@ -56,16 +56,16 @@ ISP / Cloud Server|203.0.113.10|255.255.255.0|203.0.113.1|192.168.10.2|<img widt
 
 Evidence to submit  
 
-|**Required Evidence**|**Screenshot**|
+|**Required Evidence**|**cheack its uploaded**|
 |:-|:-|
-Topology screenshot (office LAN, router, external switch, ISP/cloud server)|<img width="1917" height="1135" alt="TOP" src="https://github.com/user-attachments/assets/c00c62c4-ba91-44fa-9ae4-e5d6df9b4e00" />
-|Completed IP addressing table| 
-Router-interface screenshot|<img width="1407" height="421" alt="Screenshot 2026-10-09 194211" src="https://github.com/user-attachments/assets/1aba2e3a-4ea4-4a20-9482-56f4116caaea" />|
-Router-interface screenshot 2|<img width="1415" height="945" alt="Screenshot 2026-10-09 194434" src="https://github.com/user-attachments/assets/a67be74d-bd7e-4528-865f-5d5bc85d5dea" />
+Topology screenshot (office LAN, router, external switch, ISP/cloud server)|DONE THIS ABOVE 
+|Completed IP addressing table| DONE THIS ABOVE 
+Router-interface screenshot| DONE THIS ABOVE 
+Router-interface screenshot 2| DONE THIS ABOVE 
 DNS-records screenshot|
 Internal and external web pages opening from the CAD PC|
 At least three successful ping tests|
-a protocol table explaining 5+ concepts|
+a protocol table explaining 5+ concepts| DONE THIS ABOVE 
 a short explanation of the LAN vs external network and of the client-server model| 
 
 
