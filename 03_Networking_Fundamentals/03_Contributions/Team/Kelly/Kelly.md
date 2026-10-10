@@ -1,7 +1,7 @@
 **Topology screenshot** (office LAN, router, external switch, ISP/cloud server)
 |<img width="1917" height="1135" alt="TOP" src="https://github.com/user-attachments/assets/c00c62c4-ba91-44fa-9ae4-e5d6df9b4e00" />
 
-
+Internal and external web pages opening from the CAD PC
 |**TEST**|**SCREENSHOTS**|**COMMAND ACTIONS**|**RESULTS**|
 |:-|:-|:-|:-|
 |LAN PC TO PC|[<img width="1131" height="1122" alt="1 lan pc to pc" src="https://github.com/user-attachments/assets/396f2099-f6f7-4cab-85a2-ddcd8a2564ab" />)|PING.168.10.101|I sent a ping from the CAD PC and received replies, showing that it could reach the other PC on the network.
