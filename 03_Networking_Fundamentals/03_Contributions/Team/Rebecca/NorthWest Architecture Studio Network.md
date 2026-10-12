@@ -37,8 +37,7 @@ Evidence to submit, team roles & contribution
 
 |**Required Evidence**|**Screenshot**|
 |:-|:-|
-Topology screenshot (office LAN, router, external switch, ISP/cloud server)|!<img width="1500" height="1300" alt="0) _Topology" src="https://github.com/user-attachments/assets/368eee43-a075-406e-97ee-45618438ade5" />|
-Completed IP addressing table|!<img width="1101" height="902" alt="image" src="https://github.com/user-attachments/assets/c89fbf00-7124-4437-848f-191390e27f1e" />|
+Topology screenshot (office LAN, router, external switch, ISP/cloud server)|<img width="1500" height="1300" alt="0) _Topology" src="https://github.com/user-attachments/assets/368eee43-a075-406e-97ee-45618438ade5" />|Completed IP addressing table|!<img width="1101" height="902" alt="image" src="https://github.com/user-attachments/assets/c89fbf00-7124-4437-848f-191390e27f1e" />|
 Router-interface screenshot|!<img width="2556" height="571" alt="image" src="https://github.com/user-attachments/assets/56b09ce0-0820-41bb-9bc9-b46e433ce096" /> <img width="2558" height="547" alt="image" src="https://github.com/user-attachments/assets/067d40ec-19bf-4f06-8673-58b0bae76999" />|
 DNS-records screenshot|
 Internal and external web pages opening from the CAD PC|
