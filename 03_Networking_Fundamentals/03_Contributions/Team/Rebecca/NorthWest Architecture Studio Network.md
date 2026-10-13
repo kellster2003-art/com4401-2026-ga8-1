@@ -1,4 +1,24 @@
-Required Tests
+**Building the Community Library Network in Filius​**
+|**screenshot**|**what it shows**|
+|:-|:-|
+|<img width="1920" height="1140" alt="Screenshot 2026-10-13 203318" src="https://github.com/user-attachments/assets/ac96f34f-6640-45fc-b472-f9dd1fc3fd5a" />||
+|<img width="1920" height="1140" alt="Screenshot 2026-10-13 205634" src="https://github.com/user-attachments/assets/60716326-7cf2-44a3-b642-04711296ab71" />||
+|<img width="1920" height="1140" alt="Screenshot 2026-10-13 210049" src="https://github.com/user-attachments/assets/fef47333-160f-462d-a177-6eb111bcbd70" />||
+
+**Client and Server**
+Expliantion here.
+
+**Evidence Table**
+|**Protocol**|**Screenshot**|**Top Layer Reached**|**One line: What did it do?**|
+|:-|:-|:-|:-|
+|ARP|<img width="1136" height="57" alt="Screenshot 2026-10-13 214911" src="https://github.com/user-attachments/assets/2068cccf-e1a9-4fc3-b8c0-e0d1de7c9231" />
+|ICMP|<img width="1137" height="386" alt="Screenshot 2026-10-13 214303" src="https://github.com/user-attachments/assets/303942f8-5cac-4ff6-8ec3-f6f2d18f29ee" />
+|TCP|<img width="1116" height="55" alt="Screenshot 2026-10-13 214534" src="https://github.com/user-attachments/assets/c95ab41c-5e43-4e1e-9263-59e0f1c53d0d" />
+|HTTP|<img width="1117" height="67" alt="Screenshot 2026-10-13 214618" src="https://github.com/user-attachments/assets/8494b9de-3679-4c00-bcc3-ccdd952cdbaa" />
+|DNS (ext.)|<img width="1117" height="65" alt="Screenshot 2026-10-13 214752" src="https://github.com/user-attachments/assets/2e13f494-d98e-4997-9b3b-582ac3e7ef48" />
+
+
+**Mini Project 3: NorthWest Architecture Studio Network: Required Tests**
 <br>
 <br>
 |**Test**|**Command Actions**|**What it Proves**|**Screenshot**|
@@ -20,9 +40,9 @@ EXPLINATION PROTOCALS AND CONCEPTS
 
 |**CONCEPTS**|**WHERE IT APPEARS**|**EXPLINATION**|
 |:-|:-|:-|
-TCP/IP|All device communication||
-IP addressing|Every device has a unique IP|| 
-Subnet mask|255.255.255.0 on both networks|| 
+TCP/IP|All device communication|This is a set of communication rules that allow computers and devices to connect and share data across the internet|
+IP addressing|Every device has a unique IP|This is an individual numerical number given to each device, allowing them to communicate with each other| 
+Subnet mask|255.255.255.0 on both networks|Subnetmask splits an IP address into two parts, one part for the network and the other for the individual device. 255.255.255 identifys the network and .0 identifys the computer.| 
 Gateway|Client PCs use 192.168.10.1|| 
 DNS|intranet.archstudio.local etc.||
 HTTP|Opening pages in the browser|| 
