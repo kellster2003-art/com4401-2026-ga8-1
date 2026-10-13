@@ -59,11 +59,11 @@ Evidence to submit, team roles & contribution
 |:-|:-|
 Topology screenshot (office LAN, router, external switch, ISP/cloud server)|<img width="1500" height="1300" alt="0) _Topology" src="https://github.com/user-attachments/assets/368eee43-a075-406e-97ee-45618438ade5" />|Completed IP addressing table|!<img width="1101" height="902" alt="image" src="https://github.com/user-attachments/assets/c89fbf00-7124-4437-848f-191390e27f1e" />|
 Router-interface screenshot|!<img width="2556" height="571" alt="image" src="https://github.com/user-attachments/assets/56b09ce0-0820-41bb-9bc9-b46e433ce096" /> <img width="2558" height="547" alt="image" src="https://github.com/user-attachments/assets/067d40ec-19bf-4f06-8673-58b0bae76999" />|
-DNS-records screenshot|
+DNS-records screenshot|<img width="801" height="612" alt="Screenshot 2026-10-13 224755" src="https://github.com/user-attachments/assets/b531420f-2cc8-421e-845c-c90a02ff5253" />|
 Internal and external web pages opening from the CAD PC|
-At least three successful ping tests|
-a protocol table explaining 5+ concepts|
-a short explanation of the LAN vs external network and of the client-server model|
+At least three successful ping tests| 1) <img width="1920" height="1140" alt="Screenshot 2026-10-13 225458" src="https://github.com/user-attachments/assets/5d4933dc-2c93-4ad0-b13e-cc56d7b78912" /> 2) <img width="960" height="570" alt="Screenshot 2026-10-13 230525" src="https://github.com/user-attachments/assets/6c2c5c58-a9bc-4f1b-9320-89315093e70a" /> 3) <img width="1920" height="1140" alt="Screenshot 2026-10-13 230941" src="https://github.com/user-attachments/assets/067cdeb2-bcd1-42e3-bd28-b2346af52f3f" />|
+A protocol table explaining 5+ concepts|
+A short explanation of the LAN vs external network and of the client-server model|
 <br>
 <br>
 
