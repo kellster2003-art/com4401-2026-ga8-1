@@ -1,9 +1,9 @@
 **Building the Community Library Network in Filius​**
 |**screenshot**|**what it shows**|
 |:-|:-|
-|<img width="1920" height="1140" alt="Screenshot 2026-10-13 203318" src="https://github.com/user-attachments/assets/ac96f34f-6640-45fc-b472-f9dd1fc3fd5a" />||
-|<img width="1920" height="1140" alt="Screenshot 2026-10-13 205634" src="https://github.com/user-attachments/assets/60716326-7cf2-44a3-b642-04711296ab71" />||
-|<img width="1920" height="1140" alt="Screenshot 2026-10-13 210049" src="https://github.com/user-attachments/assets/fef47333-160f-462d-a177-6eb111bcbd70" />||
+|<img width="1920" height="1140" alt="Screenshot 2026-10-13 203318" src="https://github.com/user-attachments/assets/ac96f34f-6640-45fc-b472-f9dd1fc3fd5a" />|This shows the topology of the network witch includes 2 computers (public pc and staff pc) connected to a switch and how it is connected.|
+|<img width="1920" height="1140" alt="Screenshot 2026-10-13 205634" src="https://github.com/user-attachments/assets/60716326-7cf2-44a3-b642-04711296ab71" />|This screenshot shows that the Staff PC can successfully ping the library server.|
+|<img width="1920" height="1140" alt="Screenshot 2026-10-13 210049" src="https://github.com/user-attachments/assets/fef47333-160f-462d-a177-6eb111bcbd70" />|This screenshot shows that the Staff PC can successfully display the HTML from the Library Server.|
 
 **Client and Server**
 Expliantion here.
