@@ -40,7 +40,7 @@ Router int.1 (Office side)|192.168.10.1|255.255.255.0|||<img width="1258" height
 Router int.2 (External side)|203.0.113.1|255.255.255.0|||<img width="1248" height="848" alt="2 router in 2" src="https://github.com/user-attachments/assets/553caf80-1dfa-4819-aedc-10e280cc7504" />
 DNS Server|192.168.10.2|255.255.255.0|192.168.10.1|192.168.10.2|<img width="1912" height="1131" alt="3 DNS SERVER" src="https://github.com/user-attachments/assets/b0b983a1-0283-455c-947b-219028b03fde" />
 Office Server|192.168.10.10|255.255.255.0|192.168.10.1|192.168.10.2|<img width="1917" height="1127" alt="4 OFFICE SERVER" src="https://github.com/user-attachments/assets/f259a9fd-3c0a-4147-96dc-89ae2f24186e" />
-Admin PC|192.168.10.101|255.255.255.0|192.168.10.1|192.168.10.2||:-|:-|<img width="1667" height="1197" alt="5 ADMIN PC" src="https://github.com/user-attachments/assets/50d3423b-a999-4659-af0d-bdcd9c64e4df" />
+Admin PC|192.168.10.101|255.255.255.0|192.168.10.1|192.168.10.2||:-|:-|<img width="1667" height="1197" alt="5 ADMIN PC" src="https://github.com/user-attachments/assets/dc3b61fb-0b5f-4307-90eb-f943a9ad5a14" />
 Project PC|192.168.10.111|255.255.255.0|192.168.10.1|192.168.10.2|<img width="1912" height="1132" alt="6 PROJECT PC" src="https://github.com/user-attachments/assets/124c4a84-9491-4a76-b0d3-e418c919e0a6" />
 CAD PC|192.168.10.121|255.255.255.0|192.168.10.1|192.168.10.2|<img width="1916" height="1135" alt="7 CAD PC" src="https://github.com/user-attachments/assets/eb8ee2e9-f47b-4516-8b0a-d88a76b8c143" />
 Visual PC|192.168.10.131|255.255.255.0|192.168.10.1|192.168.10.2|<img width="1917" height="1133" alt="8 VISUAL PC" src="https://github.com/user-attachments/assets/50b32336-5392-4dc5-8522-08e5cc11760d" />
