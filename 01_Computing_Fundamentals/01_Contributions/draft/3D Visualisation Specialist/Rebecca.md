@@ -1,6 +1,46 @@
-<img width="2400" height="1260" alt="image" src="https://github.com/user-attachments/assets/a25d619a-9a87-4cbd-9bba-a692d1ab6e08" />
+Module: Foundations of Computer Science and Academic Skills
+
+Course Code: COM4401
+
+Computing_Fundamentals
+
+Tutor: Gidion
+
+Rebecca Wood
 
 
+**Project Overview**
+
+You are part of a small professional computing team advising Northwest Architecture Studio Ltd.  The company needs new PCs for distinct types of staff. It does not want to buy the same PC for every employee because distinct roles have different computing requirements. Some staff only need basic office computers, while others need more powerful systems for CAD, 3D modelling, and visualisation. 
+
+They have decided to refresh 12 complete desktop workstations for staff across four job roles. A “complete workstation” means the physical hardware required for a member of staff to use the computer effectively. This includes the PC base unit, monitor or monitors, keyboard, mouse, webcam or headset, network connectivity and any required cables or adapters. 
+
+Operating system licences, office software, CAD software, antivirus subscriptions, and other software licences are not included in this workstation budget. The organisation’s central IT/software procurement team manages these separately. 
+
+Your team must recommend suitable hardware workstations for the four staff roles while staying within the allocated hardware refresh budget. You should justify each decision based on the user’s job role, performance needs, value for money and responsible purchasing. 
+
+Each team member will take responsibility for one role or build category, create a PC build using BuildCores.com, justify the component choices, and enter the build details into a shared SQL database. The team will combine the evidence into one final recommendation for the architecture firm. 
+
+You should not simply choose the most powerful or most expensive parts. A professional recommendation must be suitable, affordable, and justified for the employee role. Over-specifying a basic office workstation wastes company funds and is poor professional practice. 
+
+
+**Client Requirements**
+
+|**Included in Budget**|**Minimum expectation**| 
+|:-|:-|
+|Base unit|CPU, motherboard, RAM, storage, case, PSU, cooling and GPU where required.| 
+|Display (optional)|At least one suitable monitor. CAD and visualisation roles may justify larger, higher-resolution or dual monitor setups.| 
+|Input devices|Keyboard and mouse. 
+|Communication hardware|Webcam and/or headset for online meetings, client calls and hybrid working. 
+|Network access hardware|Ethernet cable and/or Wi-Fi capability where needed.|
+|Cables/adapters|Power cables, display cables and any required adapters.| 
+|Role-specific peripherals|Any justified additional hardware, for example colour-accurate display, second monitor, drawing tablet or specialist input device.| 
+
+**Workstation Builds**
+
+**3D Visualisation Specialist**
+
+|<img width="2400" height="1260" alt="image" src="https://github.com/user-attachments/assets/a25d619a-9a87-4cbd-9bba-a692d1ab6e08" />
 
 BuildCores Parts List: [Link](https://uk.buildcores.com/builds/oqTEw_EBN?share=true)
 
@@ -22,3 +62,115 @@ BuildCores Parts List: [Link](https://uk.buildcores.com/builds/oqTEw_EBN?share=t
 | | | |
 |**Total Price**|**£3684.7**| |
 |[BuildCores Web](https://uk.buildcores.com)|[BuildCores iOS](https://apps.apple.com/us/app/buildcores-part-picker-for-pc/id1441971434)|[BuildCores Android](https://play.google.com/store/apps/details?id=com.buildcores.buildcores&pcampaignid=web_share)|
+
+**SQL Queries**
+
+-- Tables
+CREATE TABLE EmployeeRoles ( 
+  RoleID INT PRIMARY KEY, -- The roles ID as a number and PK to identify the row and show a relationship.
+  RoleName VARCHAR (50) NOT NULL, -- The RoleID as text upto (n) charictors in length and cant be empty.
+  StaffCount INT NOT NULL, -- This shows the StaffCount as a Number and cant be 0
+  BudgetPerUnit Decimal (8,2) NOT NULL -- This shows BudgetPerUnit and tells it it is a Decimal and can only be 8 digits by 2 digits.
+);
+
+CREATE TABLE Recomendations (
+  RecomendationID INT PRIMARY KEY,
+  RoleID INT,
+  Justification TEXT,
+  Compromise TEXT,
+  Approved CHAR(3),
+  EthicalNotes TEXT,
+  FOREIGN KEY (RoleID)
+    REFERENCES EmployeeRoles (RoleID)
+);
+
+CREATE TABLE WorkstationBuilds (
+  BuildID INT PRIMARY KEY,
+  RoleID INT,
+  BuildName VARCHAR (100),
+  Source VARCHAR (50),
+  FOREIGN KEY (RoleID)
+    REFERENCES EmployeeRoles (RoleID)
+);
+
+CREATE TABLE BuildItems (
+  ItemID INT PRIMARY KEY,
+  BuildID INT,
+  HardwareCatagory VARCHAR (50),
+  ItemName VARCHAR (100),
+  Specification VARCHAR (150),
+  Cost DECIMAL (8,2) NOT NULL,
+  FOREIGN KEY (BuildID)
+    REFERENCES WorkstationBuilds (BuildID)
+);
+
+
+-- data input
+INSERT INTO EmployeeRoles 
+(RoleID, RoleName, StaffCount, BudgetPerUnit)
+VALUES 
+(1, 'Administrative Assistant', 3, 950.00),
+(2, 'Project Manager', 2, 1300.00),
+(3, 'Architect/CAD Designer', 5, 2500.00),
+(4, '3D Visulisation Specialist', 2, 3750.00);
+
+INSERT INTO WorkstationBuilds 
+(BuildID, RoleID, BuildName, Source)
+VALUES
+(4, 4, '3D Visualisation Specialist workstation', 'Buildcores' );
+
+INSERT INTO BuildItems --
+(ItemID, BuildID, HardwareCatagory, ItemName, Specification, Cost)
+VALUES
+(1, 4, 'Case', 'HYTE Y70 ATX Mid Tower', 'Pitch Black with Tempered Glass Side Panel and USB 3.2 Gen 2 Type-C, USB 3.2 Gen 1 Type-A', 179.00),
+(2, 4, 'CPU', 'Intel Core Ultra 7 270K Plus', '8 performance cores, 16 efficiency cores', 293.97),
+(3, 4, 'Motherboard', 'Asus Z890 ROG MAXIMUS HERO', 'LGA1851 DDR5 ATX', 349.99),
+(4, 4, 'GPU', 'Asus TUF GAMING OC GeForce RTX 5070 Ti', '16GB GDDR7', 1199.99),
+(5, 4, 'RAM', 'Corsair Vengeance RGB', '64GB (2x32GB) DDR5 6400 CL32 Black', 994.99),
+(6, 4, 'CPU Cooler', 'Corsair NAUTILUS', 'Water 360mm RS ARGB Black', 109.99),
+(7, 4, 'Storage', 'Western Digital WD_BLACK', 'SN7100 2TB SSD M.2-2280 PCIe 4.0 x4 NVMe', 259.96),
+(8, 4, 'Power Supply', 'NZXT C850 (2024) Black', '850W Fully Modular 80+ Gold Certified', 109.00),
+(9, 4, 'Case Fan', 'darkFlash INF34 ARGB PWM', '120mm Black Pack of 3', 25.49),
+(10, 4, 'Mouse', 'Redragon M908 Impact RGB Black', 'High DPI, 18 customisable buttons', 31.34),
+(11, 4, 'Keyboard', 'Redragon K745 Wired Gasket RGB Gaming Keyboard', '108 Keys Mechanical Keyboard w/Extra 4 Hotkeys', 54.99),
+(12, 4, 'Webcam', 'Anker AnkerWork C310', '4k 1080p Webcam', 75.99);
+
+INSERT INTO Recomendations:
+(RecomendationID, RoleID, Justification, Compromise, Approved, EthicalNotes)
+VALUES
+(1, 4, 'The overall build was designed to meet the requirements of the customer, each part has been chosen to work so the 3D Visualisation specialist can work comfatably and productively given this build required a lot of high end components due to the nature of the work a 3D Visualisation Specialist does.', 'There are a couple of product i could have if i went over budget or if parts werent in stock i could go down in graphics card to a 5060 16GB and processor with the intel ultra 5 and ', 'YES', 'Answer the ethical questions on the breif');
+
+-- queries
+
+select * from employeeroles;
+
+/*SELECT * FROM EmployeeRoles
+WHERE BudgetPerUnit > 1000;
+
+SELECT RoleName, BudgetPerUnit
+FROM EmployeeRoles
+WHERE BudgetPerUnit > 1000;
+
+SELECT RoleName, StaffCount
+FROM EmployeeRoles
+ORDER BY StaffCount DESC;*/
+
+SELECT * FROM BuildItems;
+SELECT * FROM WorkstationBuilds;
+SELECT * FROM Recomendations;
+
+
+**Data Integrity and Ethics**
+
+**Evidence and Screenshots**
+
+**SQL results**
+<img width="1759" height="828" alt="Screenshot 2026-10-18 145304" src="https://github.com/user-attachments/assets/d3e6bfd5-ca29-4477-b492-020ef09de383" />
+<img width="1345" height="876" alt="image" src="https://github.com/user-attachments/assets/6fdda4f3-2850-4774-91aa-24abbbf3458e" />
+<img width="1351" height="816" alt="image" src="https://github.com/user-attachments/assets/945abbec-4523-48f3-bd23-fd91c021bbce" />
+
+
+
+**Review and Reflection**
+
+
