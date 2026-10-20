@@ -33,13 +33,13 @@ R = Responsible · A = Accountable · C = Consulted · I = Informed
 |------|----------|----------|----------|----------|
 | Requirements analysis (what the program must do) |R |R |R |I |
 | IPO chart (Input – Process – Output) |R |R |R |I |
-| Flowchart / pseudocode design | |R | | |
+| Flowchart / pseudocode design |R |C |C |C |
 | Test plan (normal, abnormal, extreme data) |C |C |R |I |
 | Flowgorithm build (variables, input, processing) |R | | | |
 | Flowgorithm build (decisions, loops, output) |R | | | |
 | Validation / error handling | | |R | |
 | Testing against the plan & recording results | |R | | |
-| Deployment notes (how it would be rolled out) | | | |R |
+| Deployment notes (how it would be rolled out) | |R | |R |
 | Ethical / professional considerations write-up | | | |R |
 | Final team walkthrough & consistency check |RA |RA |RA |RA |
 
