@@ -31,8 +31,8 @@
 
 R = Responsible · A = Accountable · C = Consulted · I = Informed
 
-| Task | M1 | M2 | M3 | M4 |
-|------|Kelly-Marie| Rebecca wood|----|----|
+| Task | Kelly-Marie | Rebecca wood |Hasan Uzsoy| Hashim Ghaffar |
+|------|-------------|--------------|-----------|----------------|
 | Password hygiene section | | | | |
 | Two-factor authentication (2FA) section | | | | |
 | Phishing recognition section | | | | |
