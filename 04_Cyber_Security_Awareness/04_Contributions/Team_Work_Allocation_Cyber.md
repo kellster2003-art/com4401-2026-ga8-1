@@ -19,7 +19,7 @@
 | Section 2: Two-factor authentication |Rebecca wood | |
 | Section 3: Phishing recognition |Hashim Ghaffar | |
 | Section 4: Safe use of devices |Kelly-Marie | |
-| Section 5: Public Wi-Fi |Kelly-Marie and Rebecca | |
+| Section 5: Public Wi-Fi | | |
 | Introduction & conclusion (whole team) | | |
 | Contents page & reference list (compile last) | | |
 
@@ -32,17 +32,17 @@
 R = Responsible · A = Accountable · C = Consulted · I = Informed
 
 | Task | M1 | M2 | M3 | M4 |
-|------|----|----|----|----|
+|------|Kelly-Marie| Rebecca wood|----|----|
 | Password hygiene section | | | | |
 | Two-factor authentication (2FA) section | | | | |
 | Phishing recognition section | | | | |
-| Safe use of devices section | | | | |
+| Safe use of devices section | RA|C | C|C |
 | Public Wi-Fi section | | | | |
-| Introduction (why it matters) | | | | |
-| Conclusion (practical takeaways) | | | | |
+| Introduction (why it matters) | R| R|R | R|
+| Conclusion (practical takeaways) | R|R | R| R|
 | Fact-check: trace every statistic to origin | | | | |
 | Merge sections into one consistent style/tone | | | | |
-| Alphabetised reference list (Harvard) | | | | |
-| Contents page & final formatting | | | | |
+| Alphabetised reference list (Harvard) |R |R |R |R |
+| Contents page & final formatting | R| R| R| R|
 
 > Columns M1–M4 are the team members — replace the headers with names.
