@@ -15,7 +15,7 @@
 ## 1. Who's doing what
 
 | Member | Stage / area owned | What they'll deliver | Who did what |
-|--------|--------------------|----------------------|
+|--------|--------------------|----------------------|--------------|
 |HU | Analysis | Requirements list and IPO (Input–Process–Output) chart | 
 |KA | Design | Flowchart / pseudocode and test plan design | Kelly-Marie 
 |RW | Build | Working Flowgorithm solution matching the design | Kelly-Marie 
