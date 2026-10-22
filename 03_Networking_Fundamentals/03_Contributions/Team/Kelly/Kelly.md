@@ -49,12 +49,13 @@ ISP / Cloud Server|203.0.113.10|255.255.255.0|203.0.113.1|192.168.10.2|<img widt
 |**Router-interface screenshot**|**Router-interface 2 screenshot**|
 |:-|:-|
 <img width="1407" height="421" alt="Screenshot 2026-10-09 194211" src="https://github.com/user-attachments/assets/5b87424c-76f5-4aa2-b74d-14eaccb170e3" />|<img width="1415" height="945" alt="Screenshot 2026-10-09 194434" src="https://github.com/user-attachments/assets/14601c39-8147-47ec-9478-64e532d5e80b" />
-
+DNS RECORDS
 |**DNS-records**|**screenshot**|
 |:-|:-|
 DNS RECORDS|<img width="796" height="605" alt="image" src="https://github.com/user-attachments/assets/fb07322d-2699-4522-92b1-747e321d2375" />
 
-|**At least three successful ping tests**|**screenshot**|
+ Three successful ping tests
+|**three successful ping tests**|**screenshot**|
 |:-|:-|
 CAD PC to VISUAL|<img width="787" height="607" alt="image" src="https://github.com/user-attachments/assets/1bbb155d-1809-4ef2-8016-7542e81a4bff" />
 CAD PC to DNS SERVER|<img width="797" height="592" alt="image" src="https://github.com/user-attachments/assets/822f1363-995d-4c32-a5e0-a2116d0e4ad7" />
