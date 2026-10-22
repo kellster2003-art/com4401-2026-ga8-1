@@ -5,10 +5,10 @@
 
 | | |
 |---|---|
-| **Team name** | |
+| **Team name** |4 brains 1 cell |
 | **Repository** | |
 | **Submission date** | Friday 23 October 2026 |
-| **How we'll keep in touch** | *(e.g. group chat, weekly check-in)* |
+| **How we'll keep in touch** | whattsapp |
 
 ---
 
