@@ -43,10 +43,10 @@ EXPLINATION PROTOCALS AND CONCEPTS
 TCP/IP|All device communication|This is a set of communication rules that allow computers and devices to connect and share data across the internet|
 IP addressing|Every device has a unique IP|This is an individual numerical number given to each device, allowing them to communicate with each other| 
 Subnet mask|255.255.255.0 on both networks|Subnetmask splits an IP address into two parts, one part for the network and the other for the individual device. 255.255.255 identifys the network and .0 identifys the computer.| 
-Gateway|Client PCs use 192.168.10.1|| 
+Gateway|Client PCs use 192.168.10.1|The gateway helps networks reach other networks for instance the clients computers to connect to the ISP/cloud server through the switch| 
 DNS|intranet.archstudio.local etc.||
 HTTP|Opening pages in the browser|| 
-ICMP / ping|Ping tests||
+ICMP / ping|Ping tests|ICMP allows diagnostic messages to be sent. Ping is the tool that sends a echo request to the computer or device it is trying to reach to test that it can compunicate sucsessfully|
 Client-server|CAD PC → Office/Cloud Server||
 Switch vs router| Office/External switch; Office Router||
 <br>
