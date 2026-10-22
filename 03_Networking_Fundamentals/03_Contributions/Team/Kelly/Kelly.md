@@ -57,6 +57,7 @@ DNS RECORDS|<img width="796" height="605" alt="image" src="https://github.com/us
 |**At least three successful ping tests**|**screenshot**|
 |:-|:-|
 CAD PC to VISUAL|<img width="787" height="607" alt="image" src="https://github.com/user-attachments/assets/1bbb155d-1809-4ef2-8016-7542e81a4bff" />
+CAD PC to DNS SERVER|<img width="797" height="592" alt="image" src="https://github.com/user-attachments/assets/822f1363-995d-4c32-a5e0-a2116d0e4ad7" />
 
 
 Evidence to submit  
