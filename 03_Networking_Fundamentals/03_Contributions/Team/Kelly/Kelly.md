@@ -50,7 +50,8 @@ ISP / Cloud Server|203.0.113.10|255.255.255.0|203.0.113.1|192.168.10.2|<img widt
 |:-|:-|
 <img width="1407" height="421" alt="Screenshot 2026-10-09 194211" src="https://github.com/user-attachments/assets/5b87424c-76f5-4aa2-b74d-14eaccb170e3" />|<img width="1415" height="945" alt="Screenshot 2026-10-09 194434" src="https://github.com/user-attachments/assets/14601c39-8147-47ec-9478-64e532d5e80b" />
 
-
+|**DNS-records screenshot**\
+<img width="796" height="605" alt="image" src="https://github.com/user-attachments/assets/fb07322d-2699-4522-92b1-747e321d2375" />
 
 
 
