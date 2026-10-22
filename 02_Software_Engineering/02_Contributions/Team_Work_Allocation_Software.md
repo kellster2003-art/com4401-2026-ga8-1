@@ -19,7 +19,7 @@
 |HU | Analysis | Requirements list and IPO (Input–Process–Output) chart | 
 |KA | Design | Flowchart / pseudocode and test plan design | Kelly-Marie 
 |RW | Build | Working Flowgorithm solution matching the design | Kelly-Marie 
-|HQ | Testing | Test table run with normal, abnormal and extreme data |
+|HQ | Testing | Test table run with normal, abnormal and extreme data | kelly-marie
 
 > Add or remove a row for a 3- or 5-person team. The build should follow the agreed design, and the test data should be decided *before* coding, not after. Shared tasks (deployment notes, final walkthrough, ethics/professional write-up) can be added as extra rows.
 
