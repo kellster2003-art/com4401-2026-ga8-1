@@ -59,13 +59,13 @@ Evidence to submit
 |**Required Evidence**|**cheack its uploaded**|
 |:-|:-|
 Topology screenshot (office LAN, router, external switch, ISP/cloud server)|DONE THIS ABOVE 
-|Completed IP addressing table| DONE THIS ABOVE 
-Router-interface screenshot| DONE THIS ABOVE 
-Router-interface screenshot 2| DONE THIS ABOVE 
-DNS-records screenshot|
-Internal and external web pages opening from the CAD PC|
-At least three successful ping tests|
-a protocol table explaining 5+ concepts| DONE THIS ABOVE 
+|Completed IP addressing table| DONE 
+Router-interface screenshot| DONE 
+Router-interface screenshot 2| DONE  
+DNS-records screenshot|DONE
+Internal and external web pages opening from the CAD PC|DONE
+At least three successful ping tests|DONE
+a protocol table explaining 5+ concepts| DONE 
 a short explanation of the LAN vs external network and of the client-server model| 
 
 
