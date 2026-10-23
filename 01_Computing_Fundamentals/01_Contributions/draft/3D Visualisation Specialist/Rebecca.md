@@ -173,4 +173,4 @@ SELECT * FROM Recomendations;
 
 **Review and Reflection**
 
-
+In Review this assingment was a bit of a challenge for me to get my head arround but after spending sometime with this i got this easier
