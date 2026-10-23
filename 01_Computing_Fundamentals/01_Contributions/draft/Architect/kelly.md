@@ -122,7 +122,10 @@ SELECT SUM(Cost) AS TotalBuildCost
 FROM BuildItems
 WHERE BuildID = 3;
 
+
 HERE IS SOME PHOTOS OF MY COMPLEATED SQL 
+<img width="1002" height="995" alt="image" src="https://github.com/user-attachments/assets/9ca14b15-17e6-45c2-bdd3-11f4f5adb60d" />
+<img width="1081" height="1013" alt="Screenshot 2026-10-24 000031" src="https://github.com/user-attachments/assets/9574bea1-8417-4883-b7b7-ec1b650f4891" />
 <img width="817" height="832" alt="Screenshot 2026-10-23 214508" src="https://github.com/user-attachments/assets/db5913b0-7aaf-40dd-8c74-60f4a7aa0154" />
 <img width="771" height="836" alt="Screenshot 2026-10-23 214519" src="https://github.com/user-attachments/assets/6756a1ae-3fe6-4f7c-b9be-097d050b518c" />
 
