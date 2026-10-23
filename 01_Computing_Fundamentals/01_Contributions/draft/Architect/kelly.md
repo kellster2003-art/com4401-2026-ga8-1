@@ -1,3 +1,14 @@
+### My CAD Designer Computer Build
+
+I really enjoyed this part of the project because I got to design my own computer build for an architecture studio. I liked researching the different components, comparing prices and choosing the parts I thought would work best together.
+
+I chose an AMD Ryzen 9 7900X processor and an RTX 5070 graphics card because architects need a powerful computer for CAD software, 3D modelling and rendering. I also chose 32GB of RAM to help the computer run demanding programs.
+
+I enjoyed choosing the case and making sure the components would suit the design of the computer. I wanted it to look modern and professional as well as perform well.
+
+My final build came to £2,524.74, which was over my original budget of £2,350. However, I was happy with the components I chose because I wanted a computer that would perform well and could be upgraded in the future.
+
+This was my favourite part of the project because I enjoy designing, researching and putting things together. I found it much more interesting than working with SQL because I could be creative and make my own decisions.
 !<img width="2400" height="1260" alt="image" src="https://github.com/user-attachments/assets/d2ee7d38-954b-4108-860c-24d2b512c7fc" />
 
 
