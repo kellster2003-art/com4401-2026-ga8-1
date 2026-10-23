@@ -25,3 +25,76 @@ BuildCores Parts List: [Link](https://uk.buildcores.com/builds/mZryhd0pG?share=t
 |[BuildCores Web](https://uk.buildcores.com)|[BuildCores iOS](https://apps.apple.com/us/app/buildcores-part-picker-for-pc/id1441971434)|[BuildCores Android](https://play.google.com/store/apps/details?id=com.buildcores.buildcores&pcampaignid=web_share)|The original budget for this workstation was £2,350, however my final build cost £2,525 which is £175 over budget. I chose to go slightly over budget because using higher-quality components will provide the performance needed for demanding architectural work such as 3D modelling, rendering and multitasking. I believe the additional cost is justified because it also gives the workstation better potential for future upgrades, which could reduce the need to replace the whole system sooner. 
 
 If the budget could not be increased, I would review some of the components and look for areas where costs could be reduced without significantly affecting the workstation’s performance. 
+
+SQL CODE 
+
+CREATE TABLE EmployeeRoles (
+RoleID INT PRIMARY KEY,
+Rolename VARCHAR(50) NOT NULL,
+Staffcount INT NOT NULL,
+BudgetPerUnit DECIMAL(8,2) NOT NULL
+);
+INSERT INTO EmployeeRoles
+(RoleID, Rolename, Staffcount, BudgetPerUnit)
+VALUES
+(1, 'Administrative Assistant', 3, 850.00),
+(2, 'Project Manager', 2, 1250.00),
+(3, 'Architect / CAD Designer', 5, 2350.00),
+(4, '3D Visualisation Specialist', 2, 3750.00);
+CREATE TABLE WorkstationBuilds (
+BuildID INT PRIMARY KEY,
+BuildName VARCHAR(80),
+RoleID INT,
+FOREIGN KEY (RoleID)
+REFERENCES EmployeeRoles(RoleID)
+);
+INSERT INTO WorkstationBuilds
+(BuildID, BuildName, RoleID)
+VALUES
+(1, 'Admin Build A', 1),
+(2, 'Project Manager Build', 2),
+(3, 'CAD Designer Build', 3),
+(4, '3D Visualisation Build', 4);
+CREATE TABLE BuildItems (
+ItemID INT PRIMARY KEY,
+BuildID INT,
+ItemName VARCHAR(100) NOT NULL,
+Cost DECIMAL(8,2) NOT NULL,
+FOREIGN KEY (BuildID)
+REFERENCES WorkstationBuilds(BuildID)
+);
+INSERT INTO BuildItems
+(ItemID, BuildID, ItemName, Cost)
+VALUES
+(1, 3, 'darkFlash DY470 ATX Mid Tower Case', 184.87),
+(2, 3, 'AMD Ryzen 9 7900X CPU', 255.00),
+(3, 3, 'Gigabyte X870E AORUS MASTER X3D ICE Motherboard', 453.99),
+(4, 3, 'Gigabyte GeForce RTX 5070 EAGLE OC SFF 12GB', 799.00),
+(5, 3, 'Corsair Vengeance RGB DDR5 32GB RAM', 396.99),
+(6, 3, 'Corsair NAUTILUS Water 360mm CPU Cooler', 79.99),
+(7, 3, 'PNY CS2230 1TB NVMe SSD', 158.80),
+(8, 3, 'MSI MAG A850GL PCIE5 White 850W Power Supply', 126.13),
+(9, 3, 'darkFlash INF34 ARGB PWM 120mm Fans 3-Pack', 29.99),
+(10, 3, 'Jelly Comb Wireless Mouse', 16.99),
+(11, 3, 'EagleTec KG011 Mechanical Keyboard', 22.99);
+CREATE TABLE Recommendations (
+RecommendationID INT PRIMARY KEY,
+BuildID INT,
+RecommendationText VARCHAR(500),
+FOREIGN KEY (BuildID)
+REFERENCES WorkstationBuilds(BuildID)
+);
+INSERT INTO Recommendations
+(RecommendationID, BuildID, RecommendationText)
+VALUES
+(1, 3, 'Review component costs if the budget cannot be increased.');
+
+SELECT * FROM EmployeeRoles;
+
+SELECT * FROM WorkstationBuilds;
+
+SELECT * FROM BuildItems;
+
+SELECT SUM(Cost) AS TotalBuildCost
+FROM BuildItems
+WHERE BuildID = 3;
