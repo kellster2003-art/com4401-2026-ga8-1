@@ -26,6 +26,18 @@ BuildCores Parts List: [Link](https://uk.buildcores.com/builds/mZryhd0pG?share=t
 
 If the budget could not be increased, I would review some of the components and look for areas where costs could be reduced without significantly affecting the workstation’s performance. 
 
+
+### My SQL Database
+
+For this task, I used SQL to create a database for the architecture studio. I created four tables called EmployeeRoles, WorkstationBuilds, BuildItems and Recommendations.
+
+I added the 11 computer parts I had chosen for my CAD Designer workstation, including their prices. I also used SQL to calculate the total cost of my computer, which came to £2,524.74.
+
+I found this task very difficult because I struggled to understand how SQL works and how the tables connect together. I also found it confusing when the code produced different results or errors.
+
+Although I managed to get the database working, I did not enjoy this part of the project. I prefer working on the creative and design side of computing rather than databases and coding.
+
+This task has helped me understand a little more about how information can be stored in tables, but SQL is something I still need more practice with.
 SQL CODE 
 
 CREATE TABLE EmployeeRoles (
@@ -98,3 +110,9 @@ SELECT * FROM BuildItems;
 SELECT SUM(Cost) AS TotalBuildCost
 FROM BuildItems
 WHERE BuildID = 3;
+
+HERE IS SOME PHOTOS OF MY COMPLEATED SQL 
+<img width="817" height="832" alt="Screenshot 2026-10-23 214508" src="https://github.com/user-attachments/assets/db5913b0-7aaf-40dd-8c74-60f4a7aa0154" />
+<img width="771" height="836" alt="Screenshot 2026-10-23 214519" src="https://github.com/user-attachments/assets/6756a1ae-3fe6-4f7c-b9be-097d050b518c" />
+
+
